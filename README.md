@@ -1,0 +1,1 @@
+This repository holds the data associated with the manuscript: Identifying corporate environmental risks via satellite-derived gaseous pollutants: Machine learning evidence from Chinese A-listed companies. Related data and code are included.
